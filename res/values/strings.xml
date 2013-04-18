@@ -1,5 +1,7 @@
 <resources>
 
     <string name="app_name">GlobalVibration</string>
+    <string name="accessibility_service_label">Vibration Service</string>
+    <string name="accessibility_service_description">Changes default vibration to single pattern</string>
 
 </resources>
